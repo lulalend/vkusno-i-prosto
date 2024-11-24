@@ -67,6 +67,6 @@
 # Общая информация 
 Разработка будет вестись с помощью системы контроля версий git. Под проект
 создан один репозиторий.  
-Разработка Frontend будет вестись здесь: https://github.com/lulalend/vkusno-i-prosto-frontend 
+Разработка Frontend будет вестись здесь: https://github.com/lulalend/vkusno-i-prosto-frontend  
 Backend здесь: https://github.com/k1b24/vkusno-i-prosto-backend  
 Вся система будет развернута на Virtual Private Server.
